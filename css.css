@@ -20,3 +20,12 @@ a.back-to-top {
 a:hover.back-to-top {
 	background-color: #000;
 }
+
+.affix {
+  top: 0;
+  width: 100%;
+}
+
+.affix + .container-fluid {
+  padding-top: 70px;
+}
