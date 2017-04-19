@@ -17,3 +17,6 @@ a.back-to-top {
 	-moz-border-radius: 30px;
 	border-radius: 30px;
 }
+a:hover.back-to-top {
+	background-color: #000;
+}
