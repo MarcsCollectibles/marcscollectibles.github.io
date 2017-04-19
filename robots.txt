@@ -1,0 +1,16 @@
+User-agent: *
+
+Disallow: [https://marcscollectibles.github.io/hockeycards.html]
+
+Disallow: [https://marcscollectibles.github.io/hours-location.html]
+
+Disallow: [https://marcscollectibles.github.io/contact.html]
+
+Disallow: [https://marcscollectibles.github.io/FAQ.html]
+
+Disallow: [https://marcscollectibles.github.io/googlea2f47dcb76e7f36f.html]
+
+Disallow: [https://marcscollectibles.github.io/sitemap.html]
+
+Allow: [https://marcscollectibles.github.io/index.html]
+
