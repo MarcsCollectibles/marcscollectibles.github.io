@@ -181,12 +181,12 @@ hr {
   font-weight: bold;
 }
 
-.contactus {
+.contact-us {
   text-decoration: none;
   color: inherit;
 }
 
-.contactus:hover {
+.contact-us:hover {
   text-decoration: none;
   color: #b47941;
 }
